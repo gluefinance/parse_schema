@@ -1,0 +1,1 @@
+Simple tool to split PostgreSQL schema dump (pg_dump -s) into separate files
